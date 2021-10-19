@@ -1,7 +1,8 @@
 # Project title
 
 Static design project based on HTML and CSS technologies 
-the project display 5 sections: 
+the project display 5 sectionsa and it is fully responsive
+ 
 - Hero section 
 - Services section
 - Protofolio section
@@ -23,6 +24,7 @@ There is no freamwork used in this project all writen code is by using:
 - HTML5
 - CSS3
 - Google Fonts   
+
 
 
 
